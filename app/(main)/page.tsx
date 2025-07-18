@@ -1,8 +1,8 @@
 export default function HomePage(){
   return (
-    <div className="text-red">
-    <p>Home Page</p>
-  </div>
+    <div className='text-emerald-600'>
+      <p className="text-4xl">Home Page</p>
+    </div>
   )
   
 }
